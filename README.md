@@ -1,5 +1,5 @@
 # react-virtualized-with-drawer
-a React Function as Child Component to decorate a react-virtualized List/Table with Drawer capability
+a React Function as Child Component to decorate a [react-virtualized](https://github.com/bvaughn/react-virtualized) List/Table with Drawer capability
 
 ### Usage
 
